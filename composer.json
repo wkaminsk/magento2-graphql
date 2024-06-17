@@ -1,0 +1,19 @@
+{
+    "name": "riskified/magento2graphql",
+    "type": "magento2-module",
+    "description": "Addon for using GraphQL",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.4",
+        "magento/framework": ">=100.1.0",
+        "riskified/php_sdk": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Riskified\\Decider\\": ""
+        }
+    }
+}
