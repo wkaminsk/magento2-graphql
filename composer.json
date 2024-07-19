@@ -1,5 +1,5 @@
 {
-    "name": "riskified/magento2graphql",
+    "name": "wkaminsk/magento2-graphql",
     "type": "magento2-module",
     "description": "Addon for using GraphQL",
     "version": "1.0.0",
